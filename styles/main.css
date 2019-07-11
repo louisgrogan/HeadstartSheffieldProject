@@ -1,0 +1,22 @@
+.alevel {
+  margin-bottom: 10px;
+}
+
+.heading {
+  position: absolute;
+  top: 15px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hidden {
+  display: none;
+}
