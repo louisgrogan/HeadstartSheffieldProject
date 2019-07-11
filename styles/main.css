@@ -6,6 +6,7 @@
   position: absolute;
   top: 15px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   width: 100%;
 }
@@ -19,4 +20,15 @@
 
 .hidden {
   display: none;
+}
+
+.ranking-table-uni-name {
+  font-size: 24px;
+  color: black;
+}
+
+.ranking-table-uni-logo {
+  height: 32px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
